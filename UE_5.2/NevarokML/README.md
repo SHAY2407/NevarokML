@@ -36,3 +36,6 @@ creativity in various fields.
 Explore the endless possibilities of machine learning in Unreal Engine with
 NevarokML. [Start leveraging][getting-started] its capabilities today and unlock a new level of intelligent virtual
 experiences.
+
+**Free for Non-Commercial Use:**
+NevarokML is available free of charge for non-commercial use, making it accessible for social media content creation, educational, research, and personal projects that do not generate direct revenue. For more details on licensing and usage restrictions, please refer to the license agreement provided.
