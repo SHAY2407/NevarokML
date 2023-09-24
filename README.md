@@ -6,11 +6,15 @@
 
 # NevarokML: Machine Learning for Unreal Engine
 
+[github]: https://github.com/nevarok/NevarokML
 [Unreal Engine]: https://www.unrealengine.com/
 [stable-baselines3]: https://stable-baselines3.readthedocs.io/
 [NevarokML]: https://nevarok.com/nevarokml/
 [NeuralNetworkEngine]: https://dev.epicgames.com/community/learning/courses/e7w/unreal-engine-nne/nl83/unreal-engine-nne-overview
 [getting-started]: https://nevarok.com/nevarokml/getting-started/
+
+- [GitHub Repository][github]
+- [Documentation][NevarokML]
 
 Welcome to [NevarokML], the advanced plugin that brings the power of machine learning to [Unreal Engine]. NevarokML
 allows you to seamlessly train machine learning models right from within the Unreal Engine environment
