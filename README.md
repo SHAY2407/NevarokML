@@ -12,7 +12,9 @@
 [NevarokML]: https://nevarok.com/nevarokml/
 [NeuralNetworkEngine]: https://dev.epicgames.com/community/learning/courses/e7w/unreal-engine-nne/nl83/unreal-engine-nne-overview
 [getting-started]: https://nevarok.com/nevarokml/getting-started/
+[github-installation-guide]: https://www.youtube.com/watch?v=nFbgVGCifA8
 
+- [GitHub Plugin Installation Guide][github-installation-guide]
 - [GitHub Repository][github]
 - [Documentation][NevarokML]
 
